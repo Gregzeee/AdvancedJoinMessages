@@ -1,0 +1,5 @@
+name: AdvancedJoinMessages
+version: '${project.version}'
+main: dev.gregzee.advancedjoinmessages.AdvancedJoinMessages
+api-version: 1.19
+description: A super simple to use join message plugin

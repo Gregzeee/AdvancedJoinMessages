@@ -1,0 +1,15 @@
+# Plugin prefix
+prefix: "[AJM]"
+# Configurations for different variables
+configurations:
+  server-ip: "play.myserver.net"
+  server-name: "MyServer"
+
+messages:
+  # Available variables:
+  # {player} players displayname
+  # {server-ip} server ip address
+  # {server-name} the name of the server
+  join-message: "&7[&a+&7] {player}"
+  first-join-message: "&7[&a+&7] {player}"
+  leave-message: "&7[&c-&7] {player}"
