@@ -28,3 +28,5 @@ AJM is an easy to use and very configurable join message plugin designed to be l
 ## Support
 
 For any support regarding the plugin you can dm me on discord at Gregzee#1678
+
+And if the plugin doesnt work then let me know and ill recompile it in a different version that suits your server.
